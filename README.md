@@ -70,6 +70,6 @@ Katkıda bulunmak isterseniz, lütfen bir çekme isteği açın. Projeyi gelişt
 Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına başvurun.
 
 
-If you would like to contribute, please open a pull request. We welcome contributions to improve the project or fix any issues.
+
 
 
