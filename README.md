@@ -24,7 +24,9 @@ To run the project on your local machine, follow these steps:
 
 This project utilizes various MATLAB functions for data processing, model training, and result analysis. For example, you can train a deep learning model on sample data provided in `main.m` and evaluate the results.
 
-## Contribution  
+## License
+
+This project is licensed under the MIT License. For more information, refer to the `LICENSE` file.
 
 
 
@@ -70,6 +72,4 @@ Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICEN
 
 If you would like to contribute, please open a pull request. We welcome contributions to improve the project or fix any issues.
 
-## License
 
-This project is licensed under the MIT License. For more information, refer to the `LICENSE` file.
